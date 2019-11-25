@@ -3,7 +3,7 @@
 
 1.Circle In Triangle -> triangle colour = Orange ,Circle Colour= Green
 
-![alt text](https://github.com/amblesuraj/OpenGL/master/CircleInTriangle.PNG)
+![alt text](https://github.com/amblesuraj/OpenGL.git/master/CircleInTriangle.PNG)
 
 2.House 
 
